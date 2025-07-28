@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: VSCode settings
+.vscode/
+
+# Optional: coverage/test output
+coverage/
+*.lcov
+
+# Optional: local db backup
+*.sqlite
+*.bak
+
+# Optional: lock files if you're not using them
+package-lock.json
